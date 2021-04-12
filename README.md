@@ -1,5 +1,5 @@
 ### Hi
 
-My name is David and I'm a freelancer web developer, I work with React, Vue and NodeJS.
+My name is David and I'm a web developer, I work with React, Vue and NodeJS.
 
-- I'm currently learning Elm.
+I'm currently learning Elm.
